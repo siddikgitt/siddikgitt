@@ -22,7 +22,7 @@
 
 <p align="left">
     <a href="https://github.com/siddikgitt">
-        <img src="https://komarev.com/ghpvc/?usernamesiddikgitt&label=Profile%20views&color=0e75b6&style=flat" alt="siddikgitt" />
+        <img src="https://komarev.com/ghpvc/?username=siddikgitt&label=Profile%20views&color=0e75b6&style=flat" alt="siddikgitt" />
     </a>
     <a href="https://github.com/siddikgitt?tab=followers">
         <img src="https://img.shields.io/github/followers/siddikgitt?label=Followers&style=social" alt="followers-count">
@@ -54,41 +54,6 @@
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-</p>
-<br>
-
-
-
-<!----------------------------------- Project Section ------------------------------------>
-
-<h2><i>My top projects</i></h2>
-
-
-<p align="left">
-    <a href="https://github.com/m-sehrawat/Nike-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nike Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Nike-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Weather-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Translation App&color=840010&logo=Signal&logoColor=FFFFFF&label=" alt="Translation-App" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Facebook-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook Cone&color=1a78f4&logo=facebook&logoColor=FFFFFF&label=" alt="Facebook-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Food Store&color=7A1FA2&logo=foodpanda&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lybrate Clone&color=E60012&logo=stadia&logoColor=FFFFFF&label=" alt="Lybrate-Clone" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Adidas Clone&color=000000&logo=Adidas&logoColor=FFFFFF&label=" alt="Adidas-Clone" />
-    </a>
 </p>
 <br>
 
@@ -126,35 +91,3 @@
 
 
 
-<!----------------------------------- Top Repository Section ------------------------------------>
-
-<h2><i>Top Repositories</i></h2>
-
-
-<p>
-    <a href="https://github.com/m-sehrawat/Nike-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Nike-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Mini-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Weather-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Weather-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Translation-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Translation-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-     <a href="https://github.com/m-sehrawat/Facebook-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Facebook-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Lybrate-Website-Clone-Version-2.0">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Lybrate-Website-Clone-Version-2.0&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Food-Store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Food-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/m-sehrawat/Adidas-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
-    </a>
-    
-</p>
