@@ -86,7 +86,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p display="flex" align="center">
-<img alt="Siddikkhan's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikgitt&hide=smalltalk&theme=algolia&layout=compact" width="400" height="auto"/>
+<img alt="Siddikkhan's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddikgitt&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
